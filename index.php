@@ -7,6 +7,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  
+  <img src="b29895a51d92b3fb0b7153af99b5ead1.png" alt="Flowers in Chania">
 }
 </style>
 </head>
