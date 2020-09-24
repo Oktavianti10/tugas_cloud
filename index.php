@@ -12,9 +12,7 @@ body {
 </head>
   
 <body>
- <picture>
-  <img src="ib29895a51d92b3fb0b7153af99b5ead1.png">
-</picture>
+  <img src="ib29895a51d92b3fb0b7153af99b5ead1.png" alt="ib29895a51d92b3fb0b7153af99b5ead1.png" width="500" height="600">
   
 <h2>Background Cover</h2>
 
