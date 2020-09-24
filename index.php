@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
+  background-image: url('bg.jng');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
