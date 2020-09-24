@@ -7,6 +7,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  <center>
+  <IMG SRC = "bg.jpg">
 }
 </style>
 </head>
