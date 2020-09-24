@@ -9,7 +9,7 @@ body {
   background-size: cover;
 }
   <center>
-  <img src = "bg.jpg">
+  <img src = "b29895a51d92b3fb0b7153af99b5ead1.png">
   </center>
   
 </style>
