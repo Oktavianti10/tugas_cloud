@@ -12,9 +12,11 @@ body {
 </head>
   
 <body>
-  <center>
-  <img src= "b29895a51d92b3fb0b7153af99b5ead1.png">
-  </center>
+ <picture>
+  <source media="(min-width: 650px)" srcset="ib29895a51d92b3fb0b7153af99b5ead1.png">
+  <source media="(min-width: 465px)" srcset="ib29895a51d92b3fb0b7153af99b5ead1.png">
+  <img src="ib29895a51d92b3fb0b7153af99b5ead1.png">
+</picture>
   
 <h2>Background Cover</h2>
 
