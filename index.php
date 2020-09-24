@@ -3,12 +3,10 @@
 <head>
 <style>
 body {
-  background-image: url('bg2.jpg');
+  background-image: url('bg3.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
-  
-  <img src="b29895a51d92b3fb0b7153af99b5ead1.png">
 }
 </style>
 </head>
