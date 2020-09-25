@@ -64,15 +64,6 @@
            <!--  Text based logo  -->
           <a class="navbar-brand" href="index.html">Uchiha<span>Foods</span></a> 
 
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul id="top-menu" class="nav navbar-nav navbar-right mu-main-nav">
-            <li><a href="index.html">BERANDA</a></li>
-            <li><a href="#mu-about-us">TENTANG KAMI</a></li>                       
-            <li><a href="#mu-restaurant-menu">MENU</a></li>                       
-            <li><a href="#mu-reservation">PESANAN</a></li>                         
-            <li><a href="#mu-contact">KONTAK</a></li> 
-          </ul>                            
         </div>     
       </div>          
     </nav> 
@@ -93,8 +84,8 @@
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
             <span class="mu-slider-small-title">Welcome</span>
-            <h2 class="mu-slider-title">To The Uchiha Foods</h2>
-            <p>Uchiha Foods menyediakan berbagai macam makanan asal Jepang.</p>           
+            <h2 class="mu-slider-title">WINDAAAAA</h2>
+            <p>Menyediakan kasih sayang.</p>           
             <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn">PESAN MAKANAN</a>
           </div>
           <!-- / Top slider content -->
