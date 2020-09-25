@@ -55,7 +55,7 @@
           <!-- LOGO -->       
 
            <!--  Text based logo  -->
-          <a class="navbar-brand" href="index.html">Winda<span>Foods</span></a> 
+          <a class="navbar-brand" href="index.html">Erwinda Oktavianti Nizwar</a> 
 
         </div>     
       </div>          
@@ -82,36 +82,6 @@
           </div>
           <!-- / Top slider content -->
         </div>
-        <!-- / Top slider single slide -->    
-
-         <!-- Top slider single slide -->
-        <div class="mu-top-slider-single">
-          <img src="assets/img/slider/bg.jpg" alt="img">
-          <!-- Top slider content -->
-          <div class="mu-top-slider-content">
-            <span class="mu-slider-small-title">Uchiha Foods</span>
-            <h2 class="mu-slider-title">Japan Restaurant</h2>
-            <p>Uchiha Foods provides a variety of Japanese foods.</p>           
-           <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn">PESAN MAKANAN</a>
-          </div>
-          <!-- / Top slider content -->
-        </div>
-        <!-- / Top slider single slide --> 
-
-        <!-- Top slider single slide -->
-        <div class="mu-top-slider-single">
-          <img src="assets/img/slider/1.png" alt="img">
-          <!-- Top slider content -->
-          <div class="mu-top-slider-content">
-            <span class="mu-slider-small-title">Gyoza</span>
-            <h2 class="mu-slider-title">Japanese dumplings</h2>
-            <p>.</p>           
-            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn">PESAN MAKANAN</a>
-          </div>
-          <!-- / Top slider content -->
-        </div>
-        <!-- / Top slider single slide -->   
-
       </div>
     </div>
   </section>
@@ -126,77 +96,7 @@
 
             <div class="mu-title">
               <span class="mu-subtitle"></span>
-              <h2 style="font-size: 50px;fo">Pesan Disini</h2>
-            </div>
-
-            <div class="mu-reservation-content">
-              <p>Kamu disini dapat memesan segala makanan dan minuman yang tersedia di daftar menu dengan mudah.</p>
-
-              <div class="col-md-6">
-                <div class="mu-reservation-left">
-                  <form class="mu-reservation-form">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <div class="form-group">                       
-                          <input type="text" class="form-control" placeholder="Nama Customer">
-                        </div>
-                      </div>
-                      <div class="col-md-12">
-                        <div class="form-group">                        
-                          <input type="text" class="form-control" placeholder="Nama Makanan">
-                        </div>
-                      </div>
-                      <div class="col-md-12">
-                        <div class="form-group">                        
-                          <input type="text" class="form-control" placeholder="Jumlah Pesanan">
-                        </div>
-                      </div>
-                      <div class="col-md-12">
-                        <div class="form-group">
-               				<input type="text" class="form-control" placeholder="Nama Minuman">
-                        </div>
-                      </div>
-                      <div class="col-md-12">
-                        <div class="form-group">
-                          <input type="text" class="form-control" placeholder="Jumlah Pesanan">              
-                        </div>
-                      </div>
-                      <div class="col-md-12">
-                        <div class="form-group">
-                          <textarea class="form-control" cols="30" rows="10" placeholder="Lain-Lain"></textarea>
-                        </div>
-                      </div>
-                      <button type="submit" class="mu-readmore-btn">Cetak Pesanan</button>
-                    </div>
-                  </form>    
-                </div>
-              </div>
-
-              <div class="col-md-5 col-md-offset-1">
-                <div class="mu-reservation-right">
-                  <div class="mu-opening-hour">
-                    <h2>Jam Buka Restoran</h2>
-                      <ul class="list-unstyled">
-                        <li>
-                            <p>Senin &amp; Selasa</p>
-                            <p>09:00 - 17:00 </p>
-                        </li>
-                        <li>
-                            <p>Rabu &amp; Kamis</p>
-                            <p>09:00  - 18.00</p>
-                        </li>
-                        <li>
-                            <p>Jumat &amp; Sabtu</p>
-                            <p>08:00  - 23.00</p>
-                        </li>
-                        <li>
-                            <p>Minggu</p>
-                            <p>09:00  - 23:00</p>
-                        </li>
-                      </ul>
-                  </div>
-                </div>
-              </div>
+              <h2 style="font-size: 50px;fo">Fasilitas UIN Jakarta</h2>
             </div>
           </div>
         </div>
@@ -216,7 +116,7 @@
 
             <div class="mu-title">
               <span class="mu-subtitle"></span>
-              <h2>Kontak Kami</h2>
+              <h2>Kontak Saya</h2>
             </div>
 
             <div class="mu-contact-content">
@@ -240,11 +140,6 @@
                         <label for="subject">Subject</label>
                         <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
                       </div>
-                      <div class="form-group">
-                        <label for="message">Pesan</label>                        
-                        <textarea class="form-control" id="message" name="message"  cols="30" rows="10" placeholder="Tulis Pesanmu" required></textarea>
-                      </div>                      
-                      <button type="submit" class="mu-send-btn">Kirim Pesan</button>
                     </form>
                   </div>
                 </div>
