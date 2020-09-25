@@ -55,7 +55,6 @@
           <!-- LOGO -->       
 
            <!--  Text based logo  -->
-          <a class="navbar-brand" href="index.html">Uchiha<span>Foods</span></a> 
           <a class="navbar-brand" href="index.html">Erwinda<span>OktaviantiNizwar</span></a> 
         </div>     
       </div>          
@@ -121,29 +120,7 @@
 
             <div class="mu-contact-content">
               <div class="row">
-
-                <div class="col-md-6">
-                  <div class="mu-contact-left">
-                    <!-- Email message div -->
-                    <div id="form-messages"></div>
-                    <!-- Start contact form -->
-                    <form id="ajax-contact" method="post" action="mailer.php" class="mu-contact-form">
-                      <div class="form-group">
-                        <label for="name">Nama</label>
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Nama" required>
-                      </div>
-                      <div class="form-group">
-                        <label for="email">Alamat Email</label>
-                        <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
-                      </div>                      
-                      <div class="form-group">
-                        <label for="subject">Subject</label>
-                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" required>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-
+                
   <!-- Start Footer -->
   <footer id="mu-footer">
     <div class="container">
@@ -151,7 +128,7 @@
         <div class="col-md-12">
         <div class="mu-footer-area">
           <div class="mu-footer-copyright">
-            <p>&copy; Copyright <a rel="nofollow" href="http://markups.io">uchihafoods.com</a>. All right reserved.</p>
+            <p>&copy; Copyright <a rel="nofollow" href="http://markups.io">winda.com</a>. All right reserved.</p>
           </div>         
         </div>
       </div>
