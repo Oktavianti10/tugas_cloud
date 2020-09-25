@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">    
-    <title>UchihaFoods</title>
+    <title>Erwinda Oktavianti Nizwar</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/FFFF.png" type="image/x-icon">
@@ -51,14 +51,7 @@
     <nav class="navbar navbar-default mu-main-navbar" role="navigation">  
       <div class="container">
         <div class="navbar-header">
-          <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-
+        
           <!-- LOGO -->       
 
            <!--  Text based logo  -->
@@ -80,13 +73,12 @@
 
         <!-- Top slider single slide -->
         <div class="mu-top-slider-single">
-          <img src="assets/img/slider/1.png" alt="img">
+          <img src="assets/img/slider/bg.jpg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
             <span class="mu-slider-small-title">Welcome</span>
-            <h2 class="mu-slider-title">WINDAAAAA</h2>
-            <p>Menyediakan kasih sayang.</p>           
-            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn">PESAN MAKANAN</a>
+            <h2 class="mu-slider-title">Viewer</h2>         
+            <a href="#mu-reservation" class="mu-readmore-btn mu-reservation-btn">Lanjut</a>
           </div>
           <!-- / Top slider content -->
         </div>
@@ -94,7 +86,7 @@
 
          <!-- Top slider single slide -->
         <div class="mu-top-slider-single">
-          <img src="assets/img/slider/1.png" alt="img">
+          <img src="assets/img/slider/bg.jpg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
             <span class="mu-slider-small-title">Uchiha Foods</span>
