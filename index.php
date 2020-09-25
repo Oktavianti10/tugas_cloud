@@ -55,8 +55,8 @@
           <!-- LOGO -->       
 
            <!--  Text based logo  -->
-          <a class="navbar-brand" href="index.html">Erwinda <span> Oktavianti Nizwar</span></a> 
-
+          <a class="navbar-brand" href="index.html">Uchiha<span>Foods</span></a> 
+          <a class="navbar-brand" href="index.html">Erwinda<span>OktaviantiNizwar</span></a> 
         </div>     
       </div>          
     </nav> 
