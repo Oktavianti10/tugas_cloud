@@ -6,10 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">    
     <title>Erwinda Oktavianti Nizwar</title>
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/FFFF.png" type="image/x-icon">
-
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
     <!-- Bootstrap -->
@@ -22,13 +20,10 @@
     <link href="assets/css/magnific-popup.css" rel="stylesheet"> 
     <!-- Theme color -->
     <link id="switcher" href="assets/css/theme-color/red-theme.css" rel="stylesheet">     
-
     <!-- Main style sheet -->
     <link href="style.css" rel="stylesheet">    
-
    
     <!-- Google Fonts -->
-
     <!-- Prata for body  -->
     <link href='https://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'>
     <!-- Tangerine for small title -->
@@ -36,16 +31,13 @@
     <!-- Open Sans for title -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     
-
   </head>
   <body>
-
   <!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">
       <i class="fa fa-angle-up"></i>
     </a>
   <!-- END SCROLL TOP BUTTON -->
-
   <!-- Start header section -->
   <header id="mu-header">  
     <nav class="navbar navbar-default mu-main-navbar" role="navigation">  
@@ -53,7 +45,6 @@
         <div class="navbar-header">
         
           <!-- LOGO -->       
-
            <!--  Text based logo  -->
           <a class="navbar-brand" href="index.html">Erwinda<span>OktaviantiNizwar</span></a> 
         </div>     
@@ -62,16 +53,14 @@
   </header>
   <!-- End header section -->
  
-
   <!-- Start slider  -->
   <section id="mu-slider">
     <div class="mu-slider-area"> 
-
       <!-- Top slider -->
       <div class="mu-top-slider">
-
         <!-- Top slider single slide -->
         <div class="mu-top-slider-single">
+          <img src="bg.jpg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
             <span class="mu-slider-small-title">Welcome</span>
@@ -83,15 +72,12 @@
       </div>
     </div>
   </section>
-
-
   <!-- Start Reservation section -->
   <section id="mu-reservation">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="mu-reservation-area">
-
             <div class="mu-title">
               <span class="mu-subtitle"></span>
               <h2 style="font-size: 50px;fo">Fasilitas UIN Jakarta</h2>
@@ -102,16 +88,16 @@
     </div>
   </section>  
   <!-- End Reservation section -->
-
-
-
   <!-- Start Contact section -->
   <section id="mu-contact">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="mu-contact-area">
-
+            <div class="mu-title">
+              <span class="mu-subtitle"></span>
+              <h2>Kontak Saya</h2>
+            </div>
             <div class="mu-contact-content">
               <div class="row">
                 
@@ -148,6 +134,5 @@
  
   <!-- Custom js -->
   <script src="assets/js/custom.js"></script> 
-
   </body>
 </html>
