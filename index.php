@@ -72,7 +72,7 @@
 
         <!-- Top slider single slide -->
         <div class="mu-top-slider-single">
-          <img src="assets/img/slider/bg.jpg" alt="img">
+          <img src="bg.jpg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
             <span class="mu-slider-small-title">Welcome</span>
