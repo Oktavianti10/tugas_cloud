@@ -55,7 +55,7 @@
           <!-- LOGO -->       
 
            <!--  Text based logo  -->
-          <a class="navbar-brand" href="index.html">Erwinda Oktavianti Nizwar</a> 
+          <a class="navbar-brand" href="index.html">Erwinda <span> Oktavianti Nizwar</span></a> 
 
         </div>     
       </div>          
