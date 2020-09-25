@@ -72,7 +72,6 @@
 
         <!-- Top slider single slide -->
         <div class="mu-top-slider-single">
-          <img src="bg.jpg" alt="img">
           <!-- Top slider content -->
           <div class="mu-top-slider-content">
             <span class="mu-slider-small-title">Welcome</span>
@@ -112,11 +111,6 @@
       <div class="row">
         <div class="col-md-12">
           <div class="mu-contact-area">
-
-            <div class="mu-title">
-              <span class="mu-subtitle"></span>
-              <h2>Kontak Saya</h2>
-            </div>
 
             <div class="mu-contact-content">
               <div class="row">
