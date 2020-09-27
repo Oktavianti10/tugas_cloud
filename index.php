@@ -76,7 +76,7 @@ p {font-size: 14px;}
   border-radius: 0;
   margin-bottom: 0;
   font-size: 12px;
-  letter-spacing: 4px;
+  letter-spacing: 6px;
 }
      </style>
   <style>
@@ -90,13 +90,12 @@ p {font-size: 14px;}
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="#">Erwinda Oktavianti Nizwar</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Tugas</a></li>
+        <li style=color : '#d5869d'><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
