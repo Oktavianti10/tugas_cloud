@@ -55,7 +55,7 @@ p {font-size: 14px;}
   h2 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
-    font-size : 600%;
+    font-size : 400%;
      }
 </style>
   
@@ -95,7 +95,7 @@ p {font-size: 14px;}
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li style=color : '#d5869d'><a href="#">Tugas</a></li>
+        <li style= "color : #d5869d"><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
