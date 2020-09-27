@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <style>
- body {
-        background-image: url ('pastel.jpg');
+body 
+    {
+        background: url('pastel.jpg');
 	font-family: serif;
     } 
 </style>
