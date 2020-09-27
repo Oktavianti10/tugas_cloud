@@ -49,6 +49,11 @@ p {font-size: 14px;}
     font-family : "Tangerine", cursive;
     font-weight : bold;
     font-size : 600%;
+    
+  h2 {
+    font-family : "Tangerine", cursive;
+    font-weight : bold;
+    font-size : 300%;
      }
 </style>
   
@@ -57,14 +62,14 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 110px;
-  padding-bottom: 110px;
+  padding-top: 105px;
+  padding-bottom: 105px;
 }
 </style>
   <style>
   .navbar {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
@@ -107,7 +112,7 @@ p {font-size: 14px;}
 </div>
   
  <div class="container-fluid bg-3 text-center">    
-  <h1>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h1><br>
+  <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
   <div class="row">
     <div class="col-sm-4">
       <p>Fasilitas utama menurut saya yaitu fakultas, ini gambar fakultas sains dan teknologi. Selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
