@@ -45,7 +45,7 @@ p {font-size: 14px;}
   background-color:  #B0C4DE ; /* Light Steel Blue */
   color: #000000; /* Black*/
 }
-  h2 {
+  h1 {
     font-family : "Tangerine", cursive;
      }
 </style>
@@ -95,12 +95,12 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-    <h2>Halo Viewer</h2> 
+    <h1>Halo Viewer</h1> 
   <br>
   <img src="pp1.jpg" class="img-rounded" alt="WFH" width="220" height="350">
   </br>
   <br>
-  <h2>Selamat Datang</h2>
+  <h1>Selamat Datang</h1>
   </br>
 </div>
   
