@@ -49,7 +49,9 @@ p {font-size: 14px;}
     font-family : "Tangerine", cursive;
     font-weight : bold;
     font-size : 600%;
-    
+    color : white;
+     }
+     
   h2 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
@@ -62,8 +64,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 105px;
-  padding-bottom: 105px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 </style>
   <style>
