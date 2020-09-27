@@ -86,14 +86,24 @@
     </div>
   </section>  
   <!-- End Reservation section -->
+    
   <!-- Start Contact section -->
   <section id="mu-contact">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="mu-contact-area">
-          <div class="row">
-                
+            <div class="mu-title">
+              <span class="mu-subtitle"></span>
+            </div>
+            <div class="mu-contact-content">
+              <div class="row">
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
+      
   <!-- Start Footer -->
   <footer id="mu-footer">
     <div class="container">
