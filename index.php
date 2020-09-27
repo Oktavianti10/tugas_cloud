@@ -27,13 +27,13 @@ p {font-size: 14px;}
   </style>
   <style>
   .bg-2 {
-    background-color: #E6E6FA ; /* Lavender */
+    background-color: #abdee6 ; /* Lavender */
     color: #000000; /* Black*/
   }
   </style>
   <style>
     .bg-3 {
-    background-color: #E6E6FA; /* Lavender */
+    background-color: #ffffb5; /* Lavender */
     color: #000000; /* Black*/
   }
   </style>
@@ -43,14 +43,18 @@ p {font-size: 14px;}
   background-color:  #B0C4DE ; /* Light Steel Blue */
   color: #000000; /* Black*/
 }
+  h2 {
+    font-family : "Tangerine", cursive;
+     }
 </style>
+  
 
 </head>
 <body>
 <style>
 .container-fluid {
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 </style>
   <style>
@@ -61,7 +65,7 @@ p {font-size: 14px;}
   border-radius: 0;
   margin-bottom: 0;
   font-size: 12px;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
 }
      </style>
   <style>
@@ -77,12 +81,11 @@ p {font-size: 14px;}
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Andira Pauline</a>
+      <a class="navbar-brand" href="#">Erwinda Oktavianti Nizwar</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Cerita</a></li>
-        <li><a href="#">Materi & Tugas</a></li>
+        <li><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
@@ -90,12 +93,12 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-    <h3>Halo Semua</h3> 
+    <h2>Halo Viewer</h2> 
   <br>
-  <img src="WFH.jpg" class="img-rounded" alt="WFH" width="220" height="350">
+  <img src="pp1.jpg" class="img-rounded" alt="WFH" width="220" height="350">
   </br>
   <br>
-  <h3>Selamat Datang</h3>
+  <h2>Selamat Datang</h2>
   </br>
 </div>
   
