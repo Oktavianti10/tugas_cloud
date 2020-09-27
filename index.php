@@ -92,11 +92,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="mu-contact-area">
-          </div>
-        </div>
-      </div>
-    </div>
-    </section>
+          <div class="row">
                 
   <!-- Start Footer -->
   <footer id="mu-footer">
