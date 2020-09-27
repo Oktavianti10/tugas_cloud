@@ -73,13 +73,11 @@
   <!-- Start Reservation section -->
   <section id="mu-reservation">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="mu-reservation-area">
-            <div class="mu-title">
-              <span class="mu-subtitle"></span>
-              <h2 style="font-size: 50px;fo">Fasilitas UIN Jakarta</h2>
-            </div>
+      <div class="col-md-12">
+        <div class="mu-reservation-area">
+          <div class="mu-title">
+            <span class="mu-subtitle"></span>
+            <h2 style="font-size: 50px;fo">Fasilitas UIN Jakarta</h2>
           </div>
         </div>
       </div>
