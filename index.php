@@ -98,7 +98,7 @@ p {font-size: 14px;}
   <div class="container-fluid bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-  <img src="pp1.JPG" class="img-rounded" alt="WFH" width="220" height="350">
+  <img src="pp2.JPG" class="img-rounded" alt="WFH" width="220" height="350">
   </br>
   <br>
   <h1>Selamat Datang</h1>
