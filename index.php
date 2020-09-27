@@ -57,8 +57,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 125px;
+  padding-bottom: 125px;
 }
 </style>
   <style>
