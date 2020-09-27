@@ -47,6 +47,7 @@ p {font-size: 14px;}
 }
   h1 {
     font-family : "Tangerine", cursive;
+    font-weight : bold;
      }
 </style>
   
@@ -97,7 +98,7 @@ p {font-size: 14px;}
   <div class="container-fluid bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-  <img src="pp1.jpg" class="img-rounded" alt="WFH" width="220" height="350">
+  <img src="pp1.JPG" class="img-rounded" alt="WFH" width="220" height="350">
   </br>
   <br>
   <h1>Selamat Datang</h1>
@@ -106,7 +107,7 @@ p {font-size: 14px;}
   
   <div class="container-fluid bg-2 text-center">
     <br>
-  <h3>--Suasana Work From Home--</h3>
+  <h1>--Suasana Work From Home--</h1>
     </br>
 <p><br>Assalamualaikum Warahmatullahi Wabarakatuh</br>
 
