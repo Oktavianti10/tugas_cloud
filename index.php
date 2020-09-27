@@ -56,8 +56,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 </style>
   <style>
@@ -105,30 +105,8 @@ p {font-size: 14px;}
   </br>
 </div>
   
-  <div class="container-fluid bg-2 text-center">
-    <br>
-  <h1>--Suasana Work From Home--</h1>
-    </br>
-<p><br>Assalamualaikum Warahmatullahi Wabarakatuh</br>
-
-<br>
-Pengalaman saya selama kuliah dari rumah atau Work from home (WFH) tentu ada menarik dan tidaknya, kalau menurut saya menariknya WFH ini karena bisa tetap dirumah bahkan setelah kuliah selesai bisa langsung beristirahat. Selain itu WFH juga menyenangkan karena bisa mengerjakan pekerjaan rumah dan tugas kuliah sekaligus, dengan WFH ini saya belajar untuk membagi waktu dan waktu sangat berguna karena mengerjakan
-beberapa tugas sekaligus, misalnya setelah kuliah selesai saya bisa mengerjakan pekerjaan rumah terlebih dulu seperti beres-beres rumah dan lainnya seperti tugas anak perempuan pada umumnya.
-Lalu tugas kuliah saya kerjakan biasanya tugas yang lebih dahulu mau dikumpulkan, biasanya sih saya mengerjakan tugas waktu malam hari bahkan bisa sampai larut malam untuk tugas yang waktunya dekat dengan waktu pengumpulan.
-Mengerjakan tugas-tugas juga saya biasa berdiskusi dengan teman kelompok, karena sedang WFH jadi diskusi dilakukan secara daring lewat zoom atau google meet.
-</br>
-<br>
-Liburan saya saat WFH juga cukup menyenangkan karena tidak bisa keluar rumah jadi biasanya sabtu-minggu saat libur kuliah saya gunakan untuk hobi saya, seperti mengerjakan projek tulisan cerita,
-menonton drama korea dan biasanya dihalaman rumah saya berolahraga dengan adik-adik memainkan olahraga bulutangkis.
-Selama WFH juga saya dapat membantu adik-adik saya mengerjakan tugas dari sekolahnya dan mengajarkan materi pelajaran yang mereka tidak pahami.
-</br>
-<br>
-Kurang lebih sudah 7 bulan WFH, jujur saja tidak menariknya WFH mungkin bosan karena melakukan aktifitas yang monoton dirumah setiap hari, tidak bisa bertemu dan kumpul dengan teman-teman, apalagi saya belum sempat untuk
-mengikuti organisasi dikampus. saya juga sudah rindu dengan teman-teman kelas, rindu lingkungan kampus juga. Saya berharap semester depan sudah bisa normal kembali.</br></p>
-</div>
-  
  <div class="container-fluid bg-3 text-center">    
-  <h3>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h3><br>
+  <h1>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h1><br>
   <div class="row">
     <div class="col-sm-4">
       <p>Fasilitas utama menurut saya yaitu fakultas, ini gambar fakultas sains dan teknologi. Selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
