@@ -74,7 +74,7 @@
     <!-- Start Reservation section -->
   <section id="mu-reservation">
     <div class="container">
-      <div class="col-md-8">
+      <div class="col-md-9 col-sm-12 content">
         <div class="mu-reservation-area">
           <div class="mu-title">
             <span class="mu-subtitle"></span>
