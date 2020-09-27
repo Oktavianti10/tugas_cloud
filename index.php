@@ -48,6 +48,7 @@ p {font-size: 14px;}
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
+    font-size : 300%;
      }
 </style>
   
