@@ -89,7 +89,7 @@
   <section id="mu-contact">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-13">
           <div class="mu-contact-area">
             <div class="mu-title">
               <span class="mu-subtitle"></span>
