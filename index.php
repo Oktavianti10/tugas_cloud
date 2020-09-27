@@ -68,8 +68,8 @@ p {font-size: 14px;}
 </style>
   <style>
   .navbar {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
