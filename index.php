@@ -71,11 +71,26 @@
     </div>
   </section>
 
+    <!-- Start Reservation section -->
+  <section id="mu-reservation">
+    <div class="container">
+      <div class="col-md-8">
+        <div class="mu-reservation-area">
+          <div class="mu-title">
+            <span class="mu-subtitle"></span>
+            <h2 style="font-size: 50px;fo">Fasilitas UIN Jakarta</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>  
+  <!-- End Reservation section -->
+    
   <!-- Start Contact section -->
   <section id="mu-contact">
     <div class="container">
       <div class="row">
-        <div class="col-md-13">
+        <div class="col-md-12">
           <div class="mu-contact-area">
             <div class="mu-title">
               <span class="mu-subtitle"></span>
