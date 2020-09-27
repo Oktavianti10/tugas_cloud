@@ -6,8 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">    
     <title>Erwinda Oktavianti Nizwar</title>
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/FFFF.png" type="image/x-icon">
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
     <!-- Bootstrap -->
@@ -94,12 +92,11 @@
       <div class="row">
         <div class="col-md-12">
           <div class="mu-contact-area">
-            <div class="mu-title">
-              <span class="mu-subtitle"></span>
-              <h2>Kontak Saya</h2>
-            </div>
-            <div class="mu-contact-content">
-              <div class="row">
+          </div>
+        </div>
+      </div>
+    </div>
+    </section>
                 
   <!-- Start Footer -->
   <footer id="mu-footer">
