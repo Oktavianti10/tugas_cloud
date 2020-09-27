@@ -85,8 +85,7 @@
     </div>
   </section> 
     
-    <div class="container-fluid bg-3 text-center">    
-  <h3>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h3><br>
+    <div class="container-fluid bg-3 text-center">
   <div class="row">
     <div class="col-sm-4">
       <p>Fasilitas utama menurut saya yaitu fakultas, ini gambar fakultas sains dan teknologi. Selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
@@ -96,7 +95,9 @@
       <br>
       <br>
       <br>
-      <img src="OIP.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="OIP">
+      <center>
+      <img src="bg2.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="OIP">
+      </center>
       </br>
     </br>
    </br>
