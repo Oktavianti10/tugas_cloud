@@ -133,7 +133,7 @@ p {font-size: 16px;}
  <div class="container-fluid3 bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
-      <p style="font-size:20px">GEDUNG</p>
+      <p style="font-size:20px">FAKULTAS</p>
       <br>
       <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       <br>
