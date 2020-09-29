@@ -23,19 +23,19 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-color: #abdee6 ;  /* blue */
+    background-color: #d5869d ;  /* pink */
     color: #000000; /* Black */
   }
   </style>
   <style>
   .bg-2 {
-    background-color: #abdee6 ; /* pink */
+    background-color: #abdee6 ; /* blue */
     color: #000000; /* Black*/
   }
   </style>
   <style>
     .bg-3 {
-    background-color: #abdee6; /* yellow */
+    background-color: #ffffb5; /* yellow */
     color: #000000; /* Black*/
   }
   </style>
