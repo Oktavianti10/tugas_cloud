@@ -22,7 +22,7 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
+    background-image: url('perpus.png');
     background-size: cover;
     color: #000000; /* Black */
   }
