@@ -27,17 +27,17 @@ p {font-size: 14px;}
     color: #000000; /* Black */
   }
       div.transbox {
-    background-color: gray;
+    background-color: #d5869d;
     opacity: 0.8;
     filter: alpha(opacity=90);
 }
   .bg-3 {
-    background-color: #2abb9b; /* yellow */
+    background-color: white; /* yellow */
     color: #000000; /* Black*/
   }
   
  .bg-4 {
-   background-color:  #d5869d ; /* pink */
+   background-color: gray ; /* pink */
    color: #000000; /* Black*/
  }
 
@@ -59,8 +59,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
   
 </style>
