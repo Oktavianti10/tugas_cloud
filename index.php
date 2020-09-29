@@ -33,6 +33,8 @@ p {font-size: 14px;}
 }
   .bg-3 {
     background-color: #d5869d; /* yellow */
+    opacity: 0.7;
+    filter: alpha(opacity=70);
     color: #000000; /* Black*/
   }
   
@@ -63,8 +65,8 @@ p {font-size: 14px;}
   padding-bottom: 50px;
 }
 .container-fluid2 {
-  padding-top:20px;
-  padding-bottom: 20px;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
   
 </style>
