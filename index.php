@@ -14,10 +14,10 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
   body {
-  font: 16px "Montserrat", sans-serif;
+  font: 14px "Montserrat", sans-serif;
   
 }
-p {font-size: 16px;}
+p {font-size: 14px;}
   </style>
   
   <style>
