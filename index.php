@@ -47,6 +47,7 @@ p {font-size: 14px;}
 div.transbox h1 {
     margin: 5%;
     font-weight: bold;
+    color: white;
 }
   h1 {
     font-family : "Tangerine", cursive;
@@ -112,13 +113,9 @@ div.transbox h1 {
   <br>
   <div class="transbox">
      <h1>Halo Viewer</h1> 
-  </div>
-   
-  <br>
-  <br>
-  <br>
-  <br>
+    <br>
     <h1>Selamat Datang</h1>
+  </div>
   <br>
   <br>                                                                                                                                 
   </br>
