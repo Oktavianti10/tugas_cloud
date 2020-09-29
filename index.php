@@ -25,7 +25,7 @@ p {font-size: 14px;}
   .bg-1 {
     background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
     background-size: cover;
-    opacity: 0.9;
+    opacity: 5;
     filter: alpha(opacity=90);
     color: #000000; /* Black */
   }
