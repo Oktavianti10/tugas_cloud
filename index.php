@@ -25,8 +25,8 @@ p {font-size: 14px;}
   .bg-1 {
     background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
     background-size: cover;
-    opacity: 0.1;
-    filter: alpha(opacity=10);
+    opacity: 0.4;
+    filter: alpha(opacity=40);
     color: #000000; /* Black */
   }
 
@@ -43,7 +43,7 @@ p {font-size: 14px;}
     font-family : "Tangerine", cursive;
     font-weight : bold;
     font-size : 700%;
-    color : #d5869d;
+    color : black;
      }
      
   h2 {
