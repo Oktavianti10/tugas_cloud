@@ -23,22 +23,17 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-color: #d5869d ;  /* pink */
+    background: url('uin3.jpg') ;  /* pink */
     color: #000000; /* Black */
   }
-    
-  .bg-2 {
-    background-color: black ; /* blue */
-    color: #000000; /* Black*/
-  }
-    
+
   .bg-3 {
     background-color: #ffffb5; /* yellow */
     color: #000000; /* Black*/
   }
   
  .bg-4 {
-   background-color:  #d5869d ; /* Light Steel Blue */
+   background-color:  #d5869d ; /* pink */
    color: #000000; /* Black*/
  }
     
