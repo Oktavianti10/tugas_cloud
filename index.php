@@ -27,7 +27,7 @@ p {font-size: 14px;}
     color: #000000; /* Black */
   }
       div.transbox {
-    background-color: ffffb5;
+    background-color: #ffffb5;
     opacity: 0.8;
     filter: alpha(opacity=90);
 }
