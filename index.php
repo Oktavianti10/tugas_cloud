@@ -56,8 +56,12 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid1 {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+.container-fluid2 {
+  padding-top: 80px;
+  padding-bottom: 80px;
   
 .container-fluid3 {
   padding-top: 50px;
@@ -102,15 +106,13 @@ p {font-size: 14px;}
   <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-  <br>
-    <img src="uin3.jpg" width="900" height="350" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
-  <br>
+    <img src="uin3.jpg" width="900" height="350" alt="uin"/>
   <br>
     <h1>Selamat Datang</h1>
   </br>
 </div>
   
- <div class="container-fluid1 bg-3 text-center">    
+ <div class="container-fluid2 bg-3 text-center">    
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
   <div class="row">
     <div class="col-sm-4">
