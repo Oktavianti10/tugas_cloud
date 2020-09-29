@@ -32,7 +32,7 @@ p {font-size: 14px;}
     filter: alpha(opacity=90);
 }
   .bg-3 {
-    background-color: white; /* yellow */
+    background-color: #d5869d; /* yellow */
     color: #000000; /* Black*/
   }
   
@@ -61,6 +61,10 @@ p {font-size: 14px;}
 .container-fluid {
   padding-top: 50px;
   padding-bottom: 50px;
+}
+.container-fluid2 {
+  padding-top:20px;
+  padding-bottom: 20px;
 }
   
 </style>
@@ -151,7 +155,7 @@ p {font-size: 14px;}
 </div>
   
  
-<footer class="container-fluid bg-4 text-center">
+<footer class="container-fluid2 bg-4 text-center">
   <br>
   <p>My Social Media</p>
   <br>
