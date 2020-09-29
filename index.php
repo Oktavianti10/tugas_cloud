@@ -38,7 +38,8 @@ p {font-size: 14px;}
    color: #000000; /* Black*/
  }
     div.transbox {
-    margin:200px;
+    margin-left:300px;
+    margin-right:300px;
     background-color: black;
     opacity: 0.9;
     filter: alpha(opacity=90);
