@@ -67,10 +67,6 @@ p {font-size: 14px;}
   padding-top: 110px;
   padding-bottom: 110px;
   
-.container-fluid2 {
-  padding-top: 300px;
-  padding-bottom: 300px;
-  
 .container-fluid3 {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -118,7 +114,7 @@ p {font-size: 14px;}
   </br>
 </div>
   
- <div class="container-fluid2 bg-3 text-center">    
+ <div class="container-fluid1 bg-3 text-center">    
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
   <div class="row">
     <div class="col-sm-4">
