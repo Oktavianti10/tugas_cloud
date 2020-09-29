@@ -38,10 +38,10 @@ p {font-size: 14px;}
    color: #000000; /* Black*/
  }
     div.transbox {
-    margin: 15px;
+    margin:30px;
     background-color: #036635;
-    opacity: 0.6;
-    filter: alpha(opacity=60);
+    opacity: 0.3;
+    filter: alpha(opacity=30);
 }
   h1 {
     font-family : "Tangerine", cursive;
