@@ -29,7 +29,7 @@ p {font-size: 14px;}
   </style>
   <style>
   .bg-2 {
-    background-color: #ffffb5 ; /* blue */
+    background-color: black ; /* blue */
     color: #000000; /* Black*/
   }
   </style>
@@ -161,9 +161,6 @@ p {font-size: 14px;}
   Andirapauline
   <br>
   :)
-  </br>
-  </br>
-  </br>
 </footer>
 </body>
 </html>
