@@ -63,8 +63,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 150px;
+  padding-bottom: 150px;
 }
 .container-fluid2 {
   padding-top:10px;
@@ -74,8 +74,8 @@ p {font-size: 14px;}
 </style>
   <style>
   .navbar {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
@@ -117,9 +117,7 @@ p {font-size: 14px;}
 </div>
   
    <div class="container-fluid2 bg-2 text-center">
-    <br>
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
-    <br>
   </div>                                                                                                                               
 </div>
   
@@ -162,7 +160,6 @@ p {font-size: 14px;}
   
  
 <footer class="container-fluid2 bg-4 text-center">
-  <br>
   <p>My Social Media</p>
   <br>
   Instagram & Twitter
