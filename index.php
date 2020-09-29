@@ -64,8 +64,8 @@ p {font-size: 16px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 115px;
+  padding-bottom: 115px;
 }
 .container-fluid2 {
   padding-top:10px;
@@ -78,8 +78,8 @@ p {font-size: 16px;}
 </style>
   <style>
   .navbar {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
