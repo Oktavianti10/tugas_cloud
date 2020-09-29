@@ -37,7 +37,7 @@ p {font-size: 14px;}
    color: #000000; /* Black*/
  }
     
- img {
+ img-transparans{
     opacity: 0.1;
     filter: alpha(opacity=10);
  }
@@ -107,7 +107,7 @@ p {font-size: 14px;}
   <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-    <img src="uin3.jpg" width="1500" height="500" alt="uin">
+    <img-transparans src="uin3.jpg" width="1300" height="500" alt="uin">
   <h1>Selamat Datang</h1>
   </br>
 </div>
