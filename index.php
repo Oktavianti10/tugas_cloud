@@ -31,10 +31,12 @@ p {font-size: 14px;}
     opacity: 0.8;
     filter: alpha(opacity=90);
 }
+  .bg-2 {
+    background-color: white; /* yellow */
+    color: #000000; /* Black*/
+  }
   .bg-3 {
     background-color: #d5869d; /* yellow */
-    opacity: 0.7;
-    filter: alpha(opacity=70);
     color: #000000; /* Black*/
   }
   
@@ -114,8 +116,14 @@ p {font-size: 14px;}
   </div>                                                                                                                               
 </div>
   
- <div class="container-fluid bg-3 text-center">    
+   <div class="container-fluid bg-2 text-center">
+    <br>
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
+    <br>
+  </div>                                                                                                                               
+</div>
+  
+ <div class="container-fluid bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
       <p>Fasilitas utama menurut saya yaitu fakultas, ini gambar fakultas sains dan teknologi. Selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
