@@ -47,6 +47,8 @@ p {font-size: 16px;}
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
+    letter-spacing : 5px;
+    word-spacing : 20px;
     font-size : 700%;
     color : white;
      }
@@ -85,6 +87,7 @@ p {font-size: 16px;}
   border-radius: 0;
   margin-bottom: 0;
   font-size: 12px;
+  font-weight : bold;
   letter-spacing: 6px;
 }
      </style>
