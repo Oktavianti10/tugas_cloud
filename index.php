@@ -121,16 +121,11 @@ p {font-size: 14px;}
   </div>                                                                                                                               
 </div>
   
- <div class="container-fluid bg-3 text-center">    
-  <div class="row">
-    <div class="col-sm-4">
-      <p>KALIMAT 1</p>
+ <div class="container-fluid bg-3 text-center"> 
+   <p ><img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220" style=”float:left;” />GAYKDGGGGGGGGGGGGGGGG<</p>
+      <p>GEDUNG</p>
       <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
+      <img src=>
       </br>
     </br>
    </br>
@@ -138,9 +133,7 @@ p {font-size: 14px;}
 </br>
     </div>
     <div class="col-sm-4"> 
-      <p>KALIMAT 2</p>
-     <br>
-      <br>
+      <p>PERPUSTAKAAN</p>
       <br> 
       <br>
       <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
