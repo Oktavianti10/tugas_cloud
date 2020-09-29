@@ -42,8 +42,8 @@ p {font-size: 14px;}
     margin-right:250px;
     margin-top:150px;
     margin-bottom:150px;
-    background-color: black;
-    opacity: 0.8;
+    background-color: gray;
+    opacity: 0.9;
     filter: alpha(opacity=90);
 }
   h1 {
