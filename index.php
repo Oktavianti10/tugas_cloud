@@ -44,7 +44,6 @@ p {font-size: 14px;}
    background-color: gray ; /* pink */
    color: #000000; /* Black*/
  }
-
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
@@ -121,32 +120,26 @@ p {font-size: 14px;}
   </div>                                                                                                                               
 </div>
   
- <div class="container-fluid bg-3 text-center"> 
-   <p ><img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220" style=”float:left;” />GAYKDGGGGGGGGGGGGGGGG<</p>
+ <div class="container-fluid bg-3 text-center">    
+  <div class="row">
+    <div class="col-sm-4">
+      <p>KALIMAT 1</p>
+    <div class="container-fluid bg-3 text-center"> 
       <p>GEDUNG</p>
       <br>
-      <img src=>
-      </br>
-    </br>
-   </br>
-</br>
-</br>
-    </div>
+      <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
+ </div>
+      
     <div class="col-sm-4"> 
       <p>PERPUSTAKAAN</p>
-      <br> 
       <br>
       <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
-      </br> 
-    </br>
-</br> 
-</br>
     </div>
+      
     <div class="col-sm-4"> 
-      <p>KALIMAT 3</p>
+      <p>KANTIN</p>
       <br>
       <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
-      </br>
     </div>
   </div>
 </div>
