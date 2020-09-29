@@ -22,7 +22,7 @@ p {font-size: 16px;}
   
   <style>
   .bg-1 {
-    background-image: url('perpus.jpg');
+    background-image: url('perpus.jpeg');
     background-size: cover;
     color: #000000; /* Black */
   }
@@ -146,7 +146,7 @@ p {font-size: 16px;}
     <div class="col-sm-4"> 
       <p style="font-size:20px">KANTIN</p>
       <br>
-      <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
+      <img src="kantin.jpeg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
       <br>
       <p>.....................................................................</p>
     </div>
