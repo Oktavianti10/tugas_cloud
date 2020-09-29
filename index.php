@@ -69,7 +69,10 @@ p {font-size: 14px;}
   padding-top:10px;
   padding-bottom: 10px;
 }
-  
+ .container-fluid3 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+} 
 </style>
   <style>
   .navbar {
@@ -120,7 +123,7 @@ p {font-size: 14px;}
   </div>                                                                                                                               
 </div>
   
- <div class="container-fluid2 bg-3 text-center">    
+ <div class="container-fluid3 bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
       <p>GEDUNG</p>
@@ -151,6 +154,7 @@ p {font-size: 14px;}
  
 <footer class="container-fluid2 bg-4 text-center">
   <p>My Social Media</p>
+    <p><a href="https://www.instagram.com/rwindaon/">Erwinda Oktavianti Nizwar</a></p> 
 </footer>
 </body>
 </html>
