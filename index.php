@@ -120,24 +120,30 @@ p {font-size: 14px;}
   </div>                                                                                                                               
 </div>
   
- <div class="container-fluid bg-3 text-center">    
+ <div class="container-fluid2 bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
       <p>GEDUNG</p>
       <br>
       <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
+      <br>
+      <p>.....................................................................</p>
  </div>
       
     <div class="col-sm-4"> 
       <p>PERPUSTAKAAN</p>
       <br>
       <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
+      <br>
+      <p>.....................................................................</p>
     </div>
       
     <div class="col-sm-4"> 
       <p>KANTIN</p>
       <br>
       <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
+      <br>
+      <p>.....................................................................</p>
     </div>
   </div>
 </div>
@@ -145,10 +151,6 @@ p {font-size: 14px;}
  
 <footer class="container-fluid2 bg-4 text-center">
   <p>My Social Media</p>
-  <br>
-  Instagram & Twitter
-  <br>
-  :)
 </footer>
 </body>
 </html>
