@@ -42,7 +42,7 @@ p {font-size: 14px;}
     margin-right:200px;
     margin-top:150px;
     margin-bottom:150px;
-    border-radius:100%;
+    border-radius:50%;
     background-color: #4d4d4d;
     opacity: 0.9;
     filter: alpha(opacity=90);
