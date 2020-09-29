@@ -64,8 +64,8 @@ p {font-size: 16px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 130px;
-  padding-bottom: 130px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .container-fluid2 {
   padding-top:10px;
@@ -155,8 +155,7 @@ p {font-size: 16px;}
   
  
 <footer class="container-fluid2 bg-4 text-center">
-  <p>My Social Media</p>
-    <p style="font-family:"Tangerine" cursive"><a href="https://www.instagram.com/rwindaon/">Erwinda Oktavianti Nizwar</a></p> 
+  <p>My Social Media <a href="https://www.instagram.com/rwindaon/">Erwinda Oktavianti Nizwar</a></p>
 </footer>
 </body>
 </html>
