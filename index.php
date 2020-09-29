@@ -55,8 +55,8 @@ p {font-size: 16px;}
     font-family : "Tangerine", cursive;
     font-weight : bold;
     font-size : 400%;
-    letter-spacing : 3px;
-    word-spacing : 10px;
+    letter-spacing : 5px;
+    word-spacing : 20px;
      }
 
 </style>
