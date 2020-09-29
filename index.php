@@ -29,7 +29,7 @@ p {font-size: 14px;}
   </style>
   <style>
   .bg-2 {
-    background-color: #abdee6 ; /* blue */
+    background-color: #ffffb5 ; /* blue */
     color: #000000; /* Black*/
   }
   </style>
@@ -42,7 +42,7 @@ p {font-size: 14px;}
   
    <style>
 .bg-4 {
-  background-color:  #B0C4DE ; /* Light Steel Blue */
+  background-color:  #d5869d ; /* Light Steel Blue */
   color: #000000; /* Black*/
 }
   h1 {
