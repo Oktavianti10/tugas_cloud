@@ -130,7 +130,7 @@ p {font-size: 14px;}
       <br>
       <br>
       <br>
-      <img src="OIP.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="OIP">
+      <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       </br>
     </br>
    </br>
@@ -143,7 +143,7 @@ p {font-size: 14px;}
       <br>
       <br> 
       <br>
-      <img src="perpustakaan.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="perpustakaan">
+      <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       </br> 
     </br>
 </br> 
@@ -163,8 +163,6 @@ p {font-size: 14px;}
   <p>My Social Media</p>
   <br>
   Instagram & Twitter
-  <br>
-  Andirapauline
   <br>
   :)
 </footer>
