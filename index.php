@@ -37,7 +37,19 @@ p {font-size: 14px;}
    background-color:  #d5869d ; /* pink */
    color: #000000; /* Black*/
  }
-    
+    div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
@@ -100,7 +112,10 @@ p {font-size: 14px;}
   <div class="container-fluid bg-1 text-center">
   <br>
   <br>
-    <h1>Halo Viewer</h1> 
+  <div class="transbox">
+     <h1>Halo Viewer</h1> 
+  </div>
+   
   <br>
   <br>
     <img src="uin3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="300" height=300" align="center" </>    
