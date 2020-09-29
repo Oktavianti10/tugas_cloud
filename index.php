@@ -38,8 +38,8 @@ p {font-size: 14px;}
    color: #000000; /* Black*/
  }
     div.transbox {
-    margin:100px;
-    background-color: white;
+    margin:200px;
+    background-color: black;
     opacity: 0.9;
     filter: alpha(opacity=90);
 }
@@ -47,7 +47,7 @@ p {font-size: 14px;}
     font-family : "Tangerine", cursive;
     font-weight : bold;
     font-size : 700%;
-    color : black;
+    color : white;
      }
      
   h2 {
