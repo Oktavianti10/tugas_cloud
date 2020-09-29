@@ -123,8 +123,6 @@ p {font-size: 14px;}
  <div class="container-fluid bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
-      <p>KALIMAT 1</p>
-    <div class="container-fluid bg-3 text-center"> 
       <p>GEDUNG</p>
       <br>
       <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
