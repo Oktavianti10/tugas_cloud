@@ -29,7 +29,7 @@ p {font-size: 14px;}
   </style>
   <style>
   .bg-2 {
-    background-color: #d5869d ; /* pink */
+    background-color: #ffffb5 ; /* pink */
     color: #000000; /* Black*/
   }
   </style>
