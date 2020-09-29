@@ -57,8 +57,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
   
 </style>
@@ -98,6 +98,8 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
+  <br>
+  <br>
     <h1>Halo Viewer</h1> 
   <br>
   <br>
@@ -107,6 +109,8 @@ p {font-size: 14px;}
   <br>
   <br>
     <h1>Selamat Datang</h1>
+  <br>
+  <br>                                                                                                                                 
   </br>
 </div>
   
