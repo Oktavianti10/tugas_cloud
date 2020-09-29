@@ -63,9 +63,17 @@ p {font-size: 14px;}
 </head>
 <body>
 <style>
-.container-fluid {
+.container-fluid1 {
   padding-top: 110px;
   padding-bottom: 110px;
+  
+.container-fluid2 {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  
+.container-fluid3 {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 </style>
   <style>
@@ -103,14 +111,14 @@ p {font-size: 14px;}
   </div>
 </nav>
   
-  <div class="container-fluid bg-1 text-center">
+  <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
   <h1>Selamat Datang</h1>
   </br>
 </div>
   
- <div class="container-fluid bg-3 text-center">    
+ <div class="container-fluid2 bg-3 text-center">    
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
   <div class="row">
     <div class="col-sm-4">
@@ -153,7 +161,7 @@ p {font-size: 14px;}
 </div>
   
  
-<footer class="container-fluid bg-4 text-center">
+<footer class="container-fluid3 bg-4 text-center">
   <p>My Social Media</p>
   <br>
   Instagram & Twitter
