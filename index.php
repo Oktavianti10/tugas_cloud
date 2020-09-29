@@ -100,6 +100,9 @@ p {font-size: 14px;}
     <h1>Halo Viewer</h1> 
   <br>
   <br>
+    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="300" height=300" align="left" style="margin-left: 50px"</>
+    <img src="uin3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="300" height=300" align="center" </>    
+    <img src="b29895a51d92b3fb0b7153af99b5ead1.PNG" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="300" height=300" align="left" style="margin-right: 50px"</>
   <br>
   <br>
     <h1>Selamat Datang</h1>
