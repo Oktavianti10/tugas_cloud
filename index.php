@@ -101,12 +101,10 @@ p {font-size: 14px;}
   
   <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
+    <h1>Selamat Datang</h1>
   <br>
   <br>
-    <img src="uin3.jpg" width="900" height="500" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
-  <br>
-  <br>
-  <h1>Selamat Datang</h1>
+    <img src="uin3.jpg" width="900" height="400" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
   </br>
 </div>
   
