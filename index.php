@@ -135,7 +135,9 @@ p {font-size: 14px;}
     <div class="col-sm-4">
       <p style="font-size:20px">FAKULTAS</p>
       <br>
-      <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
+      <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="250">
+      <br>
+      <br>
       <br>
       <p>Fakultas menjadi fasilitas terpenting tentunya. Setiap fakultas memiliki ciri bahkan keunikan masing-masing untuk membedakan antar gedung fakultas. 
         Di setiap fakultasnya terdapat fasilitas umum seperti banyaknya ruang kelas, toilet, 1 kantin dan mushola kecil disetiap lantai. Tentu saja fakultas 
@@ -145,7 +147,8 @@ p {font-size: 14px;}
     <div class="col-sm-4"> 
       <p style="font-size:20px">PERPUSTAKAAN</p>
       <br>
-      <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
+      <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="250">
+      <br>
       <br>
       <br>
       <p>Perpustakaan uin syarif hidayatullah Jakarta menjadi tempat yang nyaman untuk mengerjakan tugas atau hanya sekedar membaca buku.
@@ -157,7 +160,9 @@ p {font-size: 14px;}
     <div class="col-sm-4"> 
       <p style="font-size:20px">KANTIN</p>
       <br>
-      <img src="kantin.jpeg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
+      <img src="kantin.jpeg" class="img-rounded" alt="WFH" width="350" height="250" alt="rsuin">
+      <br>
+      <br>
       <br>
       <p>Uin Jakarta memiliki kantin yang cukup besar dan menyediakan berbagai macam makanan dan minuman. Kantin ini dikenal dengan sebutan Cangkir
         karena memang bentuknya yang seperti cangkir. Terdiri dari 2 lantai yaitu lantai 1 dan lantai 2. Lantai 1 untuk tempat memesan makanan dan 
