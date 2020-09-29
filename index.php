@@ -39,16 +39,14 @@ p {font-size: 14px;}
  }
     div.transbox {
     margin: 30px;
-    background-color: #ffffff;
-    border: 1px solid black;
+    background-color: #036635;
     opacity: 0.6;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
+    filter: alpha(opacity=60);
 }
 
-div.transbox p {
+div.transbox h1 {
     margin: 5%;
     font-weight: bold;
-    color: #000000;
 }
   h1 {
     font-family : "Tangerine", cursive;
@@ -118,7 +116,6 @@ div.transbox p {
    
   <br>
   <br>
-    <img src="uin3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="300" height=300" align="center" </>    
   <br>
   <br>
     <h1>Selamat Datang</h1>
