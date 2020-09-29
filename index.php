@@ -145,7 +145,11 @@ p {font-size: 16px;}
       <br>
       <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       <br>
-      <p>.....................................................................</p>
+      <br>
+      <p>Perpustakaan uin syarif hidayatullah Jakarta menjadi tempat yang nyaman untuk mengerjakan tugas atau hanya sekedar membaca buku.
+        Karena tempatnya yang bersih dan tidak berisik sehingga tempat ini pas untuk belajar. Buku-bukunya lengkap dari berbagai program 
+        studi apa saja bisa ditemukan, jika tidak mau mencari manual bisa dilakukan dengan cara mencari melalui komputer di perpustakaan 
+        yang akan menunjukkan letak bukunya. Perpustakaan uin juga sering bekerjasama dengan toko buku terkenal untuk mengadakan bazar buku murah</p>
     </div>
       
     <div class="col-sm-4"> 
