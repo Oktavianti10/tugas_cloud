@@ -103,15 +103,12 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-  <br>
-  <br>
   <div class="transbox">
+    <br>
      <h1>Halo Viewer</h1> 
     <h1>Selamat Datang</h1>
-  </div>
-  <br>
-  <br>                                                                                                                                 
-  </br>
+    <br>
+  </div>                                                                                                                               
 </div>
   
  <div class="container-fluid bg-3 text-center">    
