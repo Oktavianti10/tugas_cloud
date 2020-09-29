@@ -23,13 +23,13 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-color: #d5869d ;  /* Light Steel Blue */
+    background-color: #d5869d ;  /* pink */
     color: #000000; /* Black */
   }
   </style>
   <style>
   .bg-2 {
-    background-color: #abdee6 ; /* Lavender */
+    background-color: #abdee6 ; /* pink */
     color: #000000; /* Black*/
   }
   </style>
@@ -96,7 +96,7 @@ p {font-size: 14px;}
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li style= "color : #d5869d"><a href="#">Tugas</a></li>
+        <li style= "color : #abdee6"><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
