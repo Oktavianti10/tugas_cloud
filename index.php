@@ -54,7 +54,8 @@ p {font-size: 16px;}
   h2 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
-    font-size : 400%;
+    font-size : 300%;
+    letter-spacing : 3px;
      }
 
 </style>
