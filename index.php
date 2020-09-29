@@ -56,6 +56,7 @@ p {font-size: 16px;}
     font-weight : bold;
     font-size : 400%;
     letter-spacing : 3px;
+    word-spacing : 10px;
      }
 
 </style>
@@ -121,7 +122,7 @@ p {font-size: 16px;}
 </div>
   
    <div class="container-fluid2 bg-2 text-center">
-  <h2>--Fasilitas   UIN   Syarif   Hidayatullah   Jakarta--</h2><br>
+  <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
   </div>                                                                                                                               
 </div>
   
