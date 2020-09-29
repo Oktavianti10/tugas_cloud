@@ -74,8 +74,8 @@ p {font-size: 14px;}
 </style>
   <style>
   .navbar {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
@@ -116,7 +116,7 @@ p {font-size: 14px;}
   </div>                                                                                                                               
 </div>
   
-   <div class="container-fluid bg-2 text-center">
+   <div class="container-fluid2 bg-2 text-center">
     <br>
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
     <br>
@@ -126,8 +126,7 @@ p {font-size: 14px;}
  <div class="container-fluid bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
-      <p>Fasilitas utama menurut saya yaitu fakultas, ini gambar fakultas sains dan teknologi. Selain terdapat ruang kelas sebagai tempat belajar didalam fakultas ini juga banyak fasilitas pendukung lain misalnya,
-      mushollah, kantin dan terdapat juga gazebo yang letaknya ditengah fakultas biasanya juga disebut saung. Lobby fakultas juga dimanfaatkan mahasiswa untuk berkumpul, mengobrol sampai mengerjakan tugas</p>
+      <p>KALIMAT 1</p>
       <br>
       <br>
       <br>
@@ -141,8 +140,7 @@ p {font-size: 14px;}
 </br>
     </div>
     <div class="col-sm-4"> 
-      <p>Fasilitas lain dari UIN Jakarta yaitu Perpustakaan. Perpustakaan UIN Jakarta sangat luas dan tersedia berbagai macam buku sampai sekumpulan skripsi mahasiswa, selain untuk tempat belajar dan mencari buku
-      biasanya perpustakaan bekerjasama dengan Gramedia atau toko buku lainnya untuk mengadakan bazar buku murah dan alat-alat tulis. Suasana diperpustakaan sangat nyaman dan hening cocok sebagai tempat mengerjakan tugas</p>
+      <p>KALIMAT 2</p>
      <br>
       <br>
       <br> 
@@ -154,9 +152,7 @@ p {font-size: 14px;}
 </br>
     </div>
     <div class="col-sm-4"> 
-      <p>Fasilitas yang salah satunya baik menurut saya yaitu RS UIN. karena kampus memiliki rumah sakit sendiri yang digunakan untuk warga kampus maupun masyarakat diluar kampus. Sepengalaman saya menggunakan
-      fasilitas ini juga sangat mudah dan nyaman, bagi saya yang seorang mahasiswa untuk berobat ke RS UIN ini cukup menggunakan kartu mahasiswa dan menunjukan slip pembayaran semester terakhir, lalu saya mengatakan akan menemui dokter sesuai keluhan.
-      Setelah itu hanya menunggu giliran masuk untuk diperiksa dokter dan sesudahnya hanya tinggal menunggu resep obat dari apoteknya.</p>
+      <p>KALIMAT 3</p>
       <br>
       <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
       </br>
