@@ -24,7 +24,6 @@ p {font-size: 14px;}
   <style>
   .bg-1 {
     background-image: url('uin3.jpg');  /* pink */
-    background-size: width=200 height=200;
     background-repeat: no-repeat;
     color: #000000; /* Black */
   }
