@@ -29,13 +29,13 @@ p {font-size: 14px;}
   </style>
   <style>
   .bg-2 {
-    background-color: #ffffb5 ; /* pink */
+    background-color: #abdee6 ; /* pink */
     color: #000000; /* Black*/
   }
   </style>
   <style>
     .bg-3 {
-    background-color: #ffffb5; /* Lavender */
+    background-color: #abdee6; /* yellow */
     color: #000000; /* Black*/
   }
   </style>
