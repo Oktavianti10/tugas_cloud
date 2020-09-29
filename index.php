@@ -23,7 +23,7 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background: url('uin3.jpg') ;  /* pink */
+    background-color: #d5869d  ;  /* pink */
     color: #000000; /* Black */
   }
 
@@ -38,8 +38,8 @@ p {font-size: 14px;}
  }
     
  img {
-    opacity: 0.5;
-    filter: alpha(opacity=40);
+    opacity: 0.1;
+    filter: alpha(opacity=10);
  }
     
   h1 {
@@ -107,7 +107,7 @@ p {font-size: 14px;}
   <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-    <img src="uin3.jpg" width="1000" height="100" alt="uin">
+    <img src="uin3.jpg" width="1500" height="500" alt="uin">
   <h1>Selamat Datang</h1>
   </br>
 </div>
