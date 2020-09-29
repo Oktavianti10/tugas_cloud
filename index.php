@@ -25,6 +25,8 @@ p {font-size: 14px;}
   .bg-1 {
     background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
     background-size: cover;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
     color: #000000; /* Black */
   }
 
@@ -37,16 +39,6 @@ p {font-size: 14px;}
    background-color:  #d5869d ; /* pink */
    color: #000000; /* Black*/
  }
-    div.transbox {
-    margin-left:200px;
-    margin-right:200px;
-    margin-top:150px;
-    margin-bottom:150px;
-    border-radius:50%;
-    background-color: #4d4d4d;
-    opacity: 0.9;
-    filter: alpha(opacity=90);
-}
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
