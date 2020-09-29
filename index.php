@@ -40,9 +40,11 @@ p {font-size: 14px;}
     div.transbox {
     margin-left:300px;
     margin-right:300px;
+    margin-top:150px;
+    margin-bottom:150px;
     background-color: black;
-    opacity: 0.9;
-    filter: alpha(opacity=90);
+    opacity: 0.7;
+    filter: alpha(opacity=70);
 }
   h1 {
     font-family : "Tangerine", cursive;
