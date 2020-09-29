@@ -55,18 +55,11 @@ p {font-size: 14px;}
 </head>
 <body>
 <style>
-.container-fluid1 {
+.container-fluid {
   padding-top: 30px;
   padding-bottom: 30px;
-  
-.container-fluid2 {
-  padding-top: 80px;
-  padding-bottom: 80px;
-  
-.container-fluid3 {
-  padding-top: 50px;
-  padding-bottom: 50px;
 }
+  
 </style>
   <style>
   .navbar {
@@ -96,23 +89,23 @@ p {font-size: 14px;}
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li style= "color : #abdee6"><a href="#">Tugas</a></li>
+        <li style= "color :#ffffb5"><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
   </div>
 </nav>
   
-  <div class="container-fluid1 bg-1 text-center">
+  <div class="container-fluid bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-    <img src="uin3.jpg" width="900" height="350" alt="uin"/>
+    <img src="uin3.jpg" class="img-rounded" width="900" height="350" alt="uin"/>
   <br>
     <h1>Selamat Datang</h1>
   </br>
 </div>
   
- <div class="container-fluid2 bg-3 text-center">    
+ <div class="container-fluid bg-3 text-center">    
   <h2>--Fasilitas UIN Syarif Hidayatullah Jakarta--</h2><br>
   <div class="row">
     <div class="col-sm-4">
@@ -155,7 +148,7 @@ p {font-size: 14px;}
 </div>
   
  
-<footer class="container-fluid3 bg-4 text-center">
+<footer class="container-fluid bg-4 text-center">
   <br>
   <p>My Social Media</p>
   <br>
