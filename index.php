@@ -99,7 +99,6 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-  <div class="transbox" class="img-responsive img-circle margin" style="display:inline">
     <br>
      <h1>Halo Viewer</h1> 
     <h1>Selamat Datang</h1>
