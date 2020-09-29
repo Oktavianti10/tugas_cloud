@@ -68,8 +68,8 @@ p {font-size: 14px;}
   padding-bottom: 110px;
   
 .container-fluid2 {
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 300px;
+  padding-bottom: 300px;
   
 .container-fluid3 {
   padding-top: 50px;
@@ -162,6 +162,7 @@ p {font-size: 14px;}
   
  
 <footer class="container-fluid3 bg-4 text-center">
+  <br>
   <p>My Social Media</p>
   <br>
   Instagram & Twitter
