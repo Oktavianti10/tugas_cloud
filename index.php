@@ -74,8 +74,8 @@ p {font-size: 14px;}
 </style>
   <style>
   .navbar {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
