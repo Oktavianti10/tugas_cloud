@@ -23,7 +23,8 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');  /* pink */
+    background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
+    background-size: cover;
     color: #000000; /* Black */
   }
 
@@ -100,9 +101,9 @@ p {font-size: 14px;}
     <h1>Halo Viewer</h1> 
   <br>
   <br>
-    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="left" style="margin-left: 100px"</>
+    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="left" </>
     <img src="uin3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="center" </>    
-    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="right" style="margin-right: 50px"</>
+    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="right" </>
   <br>
   <br>
     <h1>Selamat Datang</h1>
