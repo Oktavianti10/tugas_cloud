@@ -26,25 +26,27 @@ p {font-size: 14px;}
     background-color: #d5869d ;  /* pink */
     color: #000000; /* Black */
   }
-  </style>
-  <style>
+    
   .bg-2 {
     background-color: black ; /* blue */
     color: #000000; /* Black*/
   }
-  </style>
-  <style>
-    .bg-3 {
+    
+  .bg-3 {
     background-color: #ffffb5; /* yellow */
     color: #000000; /* Black*/
   }
-  </style>
   
-   <style>
-.bg-4 {
-  background-color:  #d5869d ; /* Light Steel Blue */
-  color: #000000; /* Black*/
-}
+ .bg-4 {
+   background-color:  #d5869d ; /* Light Steel Blue */
+   color: #000000; /* Black*/
+ }
+    
+ img transp{
+    opacity: 0.5;
+    filter: alpha(opacity=40);
+ }
+    
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
@@ -110,6 +112,8 @@ p {font-size: 14px;}
   <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
+    <h1>Image Transparency</h1>
+    <img src="uin3.jpg" width="100" height="50" alt="uin">
   <h1>Selamat Datang</h1>
   </br>
 </div>
