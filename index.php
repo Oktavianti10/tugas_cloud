@@ -14,10 +14,10 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
   body {
-  font: 14px "Montserrat", sans-serif;
+  font: 16px "Montserrat", sans-serif;
   
 }
-p {font-size: 14px;}
+p {font-size: 16px;}
   </style>
   
   <style>
@@ -41,7 +41,7 @@ p {font-size: 14px;}
   }
   
  .bg-4 {
-   background-color: gray ; /* pink */
+   background-color: white ; /* pink */
    color: #000000; /* Black*/
  }
   h1 {
@@ -56,6 +56,7 @@ p {font-size: 14px;}
     font-weight : bold;
     font-size : 400%;
      }
+
 </style>
   
 </head>
@@ -126,7 +127,7 @@ p {font-size: 14px;}
  <div class="container-fluid3 bg-3 text-center">    
   <div class="row">
     <div class="col-sm-4">
-      <p>GEDUNG</p>
+      <p style="font-size:20px">GEDUNG</p>
       <br>
       <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       <br>
@@ -134,7 +135,7 @@ p {font-size: 14px;}
  </div>
       
     <div class="col-sm-4"> 
-      <p>PERPUSTAKAAN</p>
+      <p style="font-size:20px">PERPUSTAKAAN</p>
       <br>
       <img src="uin3.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       <br>
@@ -142,7 +143,7 @@ p {font-size: 14px;}
     </div>
       
     <div class="col-sm-4"> 
-      <p>KANTIN</p>
+      <p style="font-size:20px">KANTIN</p>
       <br>
       <img src="rsuin.jpg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
       <br>
