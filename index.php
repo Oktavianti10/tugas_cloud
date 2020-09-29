@@ -104,9 +104,7 @@ p {font-size: 14px;}
   <br>
   <br>
   <br>
-  <br>
-    <img src="uin3.jpg" width="1300" height="500" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
-  <br>
+    <img src="uin3.jpg" width="1000" height="300" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
   <br>
   <br>
   <br>
