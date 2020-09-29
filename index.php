@@ -26,6 +26,11 @@ p {font-size: 14px;}
     background-size: cover;
     color: #000000; /* Black */
   }
+      div.transbox {
+    background-color: ffffb5;
+    opacity: 0.8;
+    filter: alpha(opacity=90);
+}
   .bg-3 {
     background-color: #ffffb5; /* yellow */
     color: #000000; /* Black*/
@@ -35,11 +40,7 @@ p {font-size: 14px;}
    background-color:  #d5869d ; /* pink */
    color: #000000; /* Black*/
  }
-    div.transbox {
-    background-color: black;
-    opacity: 0.8;
-    filter: alpha(opacity=90);
-}
+
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
