@@ -137,7 +137,9 @@ p {font-size: 14px;}
       <br>
       <img src="uin2.jpg" class="img-rounded" alt="UIN" width="350" height="220">
       <br>
-      <p>.....................................................................</p>
+      <p>Fakultas menjadi fasilitas terpenting tentunya. Setiap fakultas memiliki ciri bahkan keunikan masing-masing untuk membedakan antar gedung fakultas. 
+        Di setiap fakultasnya terdapat fasilitas umum seperti banyaknya ruang kelas, toilet, 1 kantin dan mushola kecil disetiap lantai. Tentu saja fakultas 
+        bisa dibilang menjadi basecamp untuk mahasiswa yang memanfaatkan lobi sekitar fakultas untuk tempat berkumpul.</p>
  </div>
       
     <div class="col-sm-4"> 
@@ -157,7 +159,10 @@ p {font-size: 14px;}
       <br>
       <img src="kantin.jpeg" class="img-rounded" alt="WFH" width="350" height="220" alt="rsuin">
       <br>
-      <p>.....................................................................</p>
+      <p>Uin Jakarta memiliki kantin yang cukup besar dan menyediakan berbagai macam makanan dan minuman. Kantin ini dikenal dengan sebutan Cangkir
+        karena memang bentuknya yang seperti cangkir. Terdiri dari 2 lantai yaitu lantai 1 dan lantai 2. Lantai 1 untuk tempat memesan makanan dan 
+        ada banyak sekali meja kursi untuk tempat makan dan untuk lantai 2 nya hanya tempat makan saja. Menu yang ditawarkan kantin ini juga sangat 
+        beragam dari harga dan jenisnya. Paling pas untuk tempat berkumpul dan menyantap makanan bersama teman.</p>
     </div>
   </div>
 </div>
