@@ -37,11 +37,6 @@ p {font-size: 14px;}
    color: #000000; /* Black*/
  }
     
- img-transparans{
-    opacity: 0.1;
-    filter: alpha(opacity=10);
- }
-    
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
@@ -107,7 +102,7 @@ p {font-size: 14px;}
   <div class="container-fluid1 bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-    <img-transparans src="uin3.jpg" width="1300" height="500" alt="uin">
+    <img src="uin3.jpg" width="1300" height="500" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
   <h1>Selamat Datang</h1>
   </br>
 </div>
