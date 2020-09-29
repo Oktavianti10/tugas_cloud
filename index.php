@@ -32,7 +32,7 @@ p {font-size: 14px;}
     filter: alpha(opacity=90);
 }
   .bg-3 {
-    background-color: #ffffb5; /* yellow */
+    background-color: #g25003; /* yellow */
     color: #000000; /* Black*/
   }
   
@@ -44,7 +44,7 @@ p {font-size: 14px;}
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
-    font-size : 600%;
+    font-size : 700%;
     color : white;
      }
      
