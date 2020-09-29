@@ -92,7 +92,7 @@ p {font-size: 14px;}
         <span class="icon-bar"></span>
       </button>
       <br>
-       <img src="pp2.JPG" class="img-rounded" alt="WFH" width="220" height="270">
+       <img src="pp2.JPG" class="img-rounded" alt="WFH" width="50" height="70">
       </br>
       <a class="navbar-brand" href="#">Erwinda Oktavianti Nizwar</a>
     </div>
