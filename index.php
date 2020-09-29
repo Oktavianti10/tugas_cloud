@@ -23,7 +23,7 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-color: #d5869d  ;  /* pink */
+    background-image: url('uin3.jpg');  /* pink */
     color: #000000; /* Black */
   }
 
@@ -99,7 +99,7 @@ p {font-size: 14px;}
   <div class="container-fluid bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-    <img src="uin3.jpg" class="img-responsive img-circle margin" width="900" height="350" alt="uin"/>
+    <img src="uin3.jpg" class="img-responsive img-circle margin" width="200" height="200" alt="uin"/>
   <br>
     <h1>Selamat Datang</h1>
   </br>
