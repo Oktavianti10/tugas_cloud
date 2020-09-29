@@ -90,6 +90,7 @@ p {font-size: 16px;}
      </style>
   <style>
 .navbar-nav li a:hover {
+  font-weight : bold;
   color: #d5869d !important;
 }
   </style>
