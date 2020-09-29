@@ -74,7 +74,7 @@ p {font-size: 14px;}
      </style>
   <style>
 .navbar-nav li a:hover {
-  color: #B0C4DE !important;
+  color: #d5869d !important;
 }
   </style>
   <nav class="navbar navbar-default">
@@ -89,7 +89,7 @@ p {font-size: 14px;}
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li style= "color :#ffffb5"><a href="#">Tugas</a></li>
+        <li><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
@@ -99,7 +99,7 @@ p {font-size: 14px;}
   <div class="container-fluid bg-1 text-center">
     <h1>Halo Viewer</h1> 
   <br>
-    <img src="uin3.jpg" class="img-rounded" width="900" height="350" alt="uin"/>
+    <img src="uin3.jpg" class="img-responsive img-circle margin" width="900" height="350" alt="uin"/>
   <br>
     <h1>Selamat Datang</h1>
   </br>
