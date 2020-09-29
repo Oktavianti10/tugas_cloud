@@ -44,7 +44,7 @@ p {font-size: 14px;}
     margin-bottom:150px;
     background-color: black;
     opacity: 0.7;
-    filter: alpha(opacity=70);
+    filter: alpha(opacity=90);
 }
   h1 {
     font-family : "Tangerine", cursive;
