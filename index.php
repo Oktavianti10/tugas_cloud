@@ -32,7 +32,7 @@ p {font-size: 14px;}
     filter: alpha(opacity=90);
 }
   .bg-3 {
-    background-color: #g25003; /* yellow */
+    background-color: #2abb9b; /* yellow */
     color: #000000; /* Black*/
   }
   
