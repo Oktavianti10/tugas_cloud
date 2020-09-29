@@ -41,7 +41,7 @@ p {font-size: 14px;}
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
-    font-size : 600%;
+    font-size : 700%;
     color : white;
      }
      
@@ -57,8 +57,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
   
 </style>
@@ -103,9 +103,7 @@ p {font-size: 14px;}
     <h1>Halo Viewer</h1> 
   <br>
   <br>
-    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="left" </>
-    <img src="uin3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="center" </>    
-    <img src="uin2.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="200" height=200" align="right" </>
+    <img src="uin3.jpg" class="img-responsive img-circle margin" style="display:inline" alt="UIN" width="300" height=300" align="center" </>    
   <br>
   <br>
     <h1>Selamat Datang</h1>
