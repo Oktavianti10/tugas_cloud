@@ -22,34 +22,34 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-color: #d5869d ;  /* pink */
-    background-color: #abdee6 ;  /* blue */
+    background-image: url('b29895a51d92b3fb0b7153af99b5ead1.png');
+    background-size: cover;
     color: #000000; /* Black */
   }
-  </style>
-  <style>
-  .bg-2 {
-    background-color: #abdee6 ; /* pink */
-    background-color: #d5869d ; /* pink */
+  .bg-3 {
+    background-color: #ffffb5; /* yellow */
     color: #000000; /* Black*/
   }
-  </style>
-  <style>
-    .bg-3 {
-    background-color: #ffffb5; /* Lavender */
-    color: #000000; /* Black*/
-  }
-  </style>
   
-   <style>
-.bg-4 {
-  background-color:  #B0C4DE ; /* Light Steel Blue */
-  color: #000000; /* Black*/
+ .bg-4 {
+   background-color:  #d5869d ; /* pink */
+   color: #000000; /* Black*/
+ }
+    div.transbox {
+    margin-left:250px;
+    margin-right:250px;
+    margin-top:150px;
+    margin-bottom:150px;
+    background-color: black;
+    opacity: 0.8;
+    background-color: gray;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
 }
   h1 {
     font-family : "Tangerine", cursive;
     font-weight : bold;
-    font-size : 600%;
+    font-size : 700%;
     color : white;
      }
      
@@ -64,10 +64,10 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 80px;
-  padding-top: 110px;
-  padding-bottom: 110px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
+  
 </style>
   <style>
   .navbar {
@@ -82,7 +82,7 @@ p {font-size: 14px;}
      </style>
   <style>
 .navbar-nav li a:hover {
-  color: #B0C4DE !important;
+  color: #d5869d !important;
 }
   </style>
   <nav class="navbar navbar-default">
@@ -97,7 +97,7 @@ p {font-size: 14px;}
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li style= "color : #abdee6"><a href="#">Tugas</a></li>
+        <li><a href="#">Tugas</a></li>
         <li><a href="#">Tentang Saya</a></li>
       </ul>
     </div>
@@ -105,10 +105,12 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-    <h1>Halo Viewer</h1> 
-  <br>
-  <h1>Selamat Datang</h1>
-  </br>
+  <div class="transbox">
+    <br>
+     <h1>Halo Viewer</h1> 
+    <h1>Selamat Datang</h1>
+    <br>
+  </div>                                                                                                                               
 </div>
   
  <div class="container-fluid bg-3 text-center">    
@@ -155,6 +157,7 @@ p {font-size: 14px;}
   
  
 <footer class="container-fluid bg-4 text-center">
+  <br>
   <p>My Social Media</p>
   <br>
   Instagram & Twitter
@@ -162,9 +165,6 @@ p {font-size: 14px;}
   Andirapauline
   <br>
   :)
-  </br>
-  </br>
-  </br>
 </footer>
 </body>
 </html>
