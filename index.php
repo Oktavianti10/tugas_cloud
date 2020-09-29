@@ -56,8 +56,8 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid1 {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   
 .container-fluid3 {
   padding-top: 50px;
@@ -103,7 +103,11 @@ p {font-size: 14px;}
     <h1>Halo Viewer</h1> 
   <br>
   <br>
+  <br>
+  <br>
     <img src="uin3.jpg" width="1300" height="500" alt="uin" opacity:"0.6" filter: "alpha(opacity=60)"/>
+  <br>
+  <br>
   <br>
   <br>
   <h1>Selamat Datang</h1>
