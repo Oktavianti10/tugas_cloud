@@ -28,8 +28,8 @@ p {font-size: 16px;}
   }
       div.transbox {
     background-color: #d5869d;
-    opacity: 0.8;
-    filter: alpha(opacity=90);
+    opacity: 0.85;
+    filter: alpha(opacity=85);
 }
   .bg-2 {
     background-color: white; /* yellow */
@@ -78,8 +78,8 @@ p {font-size: 16px;}
 </style>
   <style>
   .navbar {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border: 0;
   border-radius: 0;
   margin-bottom: 0;
@@ -156,7 +156,7 @@ p {font-size: 16px;}
  
 <footer class="container-fluid2 bg-4 text-center">
   <p>My Social Media</p>
-    <p><a href="https://www.instagram.com/rwindaon/">Erwinda Oktavianti Nizwar</a></p> 
+    <p style="font-family:"Tangerine" cursive"><a href="https://www.instagram.com/rwindaon/">Erwinda Oktavianti Nizwar</a></p> 
 </footer>
 </body>
 </html>
