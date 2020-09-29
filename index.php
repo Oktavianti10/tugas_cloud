@@ -91,7 +91,7 @@ p {font-size: 14px;}
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <img src="pp2.JPG" class="img-rounded" alt="PP" width="40" height="50" align="left" border="2"/>
+      <img src="pp2.JPG" class="img-rounded" alt="PP" width="40" height="50" align="left" style="margin-right: 4px;"/>
       <a class="navbar-brand" href="#">   Erwinda Oktavianti Nizwar</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
