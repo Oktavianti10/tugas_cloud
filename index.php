@@ -23,13 +23,13 @@ p {font-size: 14px;}
   
   <style>
   .bg-1 {
-    background-color: #d5869d ;  /* pink */
+    background-color: #abdee6 ;  /* blue */
     color: #000000; /* Black */
   }
   </style>
   <style>
   .bg-2 {
-    background-color: #abdee6 ; /* pink */
+    background-color: #d5869d ; /* pink */
     color: #000000; /* Black*/
   }
   </style>
@@ -64,7 +64,7 @@ p {font-size: 14px;}
 <body>
 <style>
 .container-fluid {
-  padding-top: 80px;
+  padding-top: 110px;
   padding-bottom: 110px;
 }
 </style>
