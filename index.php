@@ -25,6 +25,8 @@ p {font-size: 14px;}
   .bg-1 {
     background-image: url('uin3.jpg');  /* pink */
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    backgrouND-size: widht=1300 height=500;
     color: #000000; /* Black */
   }
 
