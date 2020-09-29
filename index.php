@@ -38,11 +38,12 @@ p {font-size: 14px;}
    color: #000000; /* Black*/
  }
     div.transbox {
-    margin-left:250px;
-    margin-right:250px;
+    margin-left:200px;
+    margin-right:200px;
     margin-top:150px;
     margin-bottom:150px;
-    background-color: gray;
+    border-radius:100%;
+    background-color: #4d4d4d;
     opacity: 0.9;
     filter: alpha(opacity=90);
 }
@@ -106,7 +107,7 @@ p {font-size: 14px;}
 </nav>
   
   <div class="container-fluid bg-1 text-center">
-  <div class="transbox">
+  <div class="transbox" class="img-responsive img-circle margin" style="display:inline">
     <br>
      <h1>Halo Viewer</h1> 
     <h1>Selamat Datang</h1>
